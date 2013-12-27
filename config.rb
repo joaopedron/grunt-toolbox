@@ -7,11 +7,8 @@ sass_dir = "assets/scss"
 images_dir = "assets/images"
 javascripts_dir = "assets/js"
 fonts_dir = "assets/fonts"
-
 output_style = :compressed
-
 relative_assets = true
-
 line_comments = false
 color_output = false
 
